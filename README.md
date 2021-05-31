@@ -1,5 +1,5 @@
 # java-package-tutorial
-This is a Java package created by following a tutorial on Oracle docs.
+This is a Java package created by following a [tutorial](https://docs.oracle.com/javase/tutorial/java/package/QandE/packages-questions.html) on Oracle docs.
 
 ## What is this?
 Server.java, Client.java, Utilities.jave were originally three separate files that did not belong to a package. Code was added to each file so that they become part of the same Java package. The package was then compiled and uploaded to this repo.
